@@ -1,0 +1,5 @@
+{
+  "name": "Mapeador de Perfil Comportamental (DISC)",
+  "description": "Uma aplicação web para realizar um teste de perfil comportamental DISC. Os usuários respondem a uma série de perguntas de múltipla escolha para determinar suas características dominantes, de influência, de estabilidade e de conformidade. O resultado é apresentado com porcentagens e um gráfico de barras para fácil visualização.",
+  "requestFramePermissions": []
+}
